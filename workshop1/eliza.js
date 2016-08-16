@@ -225,6 +225,13 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x God ~*y":[
+  	"Would you agree that Nic Cage is our one true God?",
+  	"You are of course referencing your holy reverence of Nicolas Cage",
+  	"What has Jesus ever done for you? Convert to Cagism",
+  	"I must warn you, I exclusively acknowledge  worship of our lord and savior Nicolas Cage",
+  	"Prais be unto lord Cage",
+  	],
 };
 
 var default_responses = [
