@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(22, 220, 22);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -17,7 +17,7 @@ h3{
 }
 
 h2{
-    margin:0px;
+    margin:15px;
 }
 
 #main {
@@ -30,50 +30,50 @@ a {
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: rgb(159, 19, 128);
     text-decoration: none;
 }
 
 img{
-    padding: 15px;
+    padding: 50px;
 }
 
 .headshot{
     float:right;
-    height: 360px;
-    padding-top:0px;
+    height: 36px;
+    padding-top:30px;
 }
 
 .textbox {
-    width:70%;
-    color: white;
+    width:170%;
+    color: orange;
     font-size: 110%;
-    background:gray;
+    background:green;
     padding: 4px;
     border:1px solid white;
 }
 
 .button {
-    background: white;
-    font-size: 110%;
-    color:gray;
-    padding: 4px;
-    border:2px solid white;
+    background: blue;
+    font-size: 1100%;
+    color:yellow;
+    padding: 40px;
+    border:2px solid purple;
 }
 
 .redacted{
     background-color: rgb(0, 0, 0);
-    color:  rgb(215, 206, 199);
+    color:  rgb(25, 26, 199);
 }
 
 .half{
-    width: 48%;
+    width: 8%;
     float: left;
 }
 
 .box { 
-    width: 250px;
-    margin: 15px;
+    width: 50px;
+    margin: 150px;
     display: inline-block;
     vertical-align: top;   
 }
